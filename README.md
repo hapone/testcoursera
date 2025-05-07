@@ -1,2 +1,3 @@
 # testcoursera
-Test coursera sample only
+Test coursera sample only 
+for education purpose
